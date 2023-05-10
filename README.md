@@ -7,4 +7,4 @@
 ### Você pode entrar em contato comigo 📫
 _roverdani9@gmail.com_
 
-![cat tiping](https://tenor.com/pt-BR/view/cat-typing-gif-22904866)
+![cat](https://media.tenor.com/PS9Tcg6mIY4AAAAS/cat-ayasan.gif)
