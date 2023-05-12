@@ -7,4 +7,7 @@
 ### Você pode entrar em contato comigo 📫
 _roverdani9@gmail.com_
 
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ![cat](https://media.tenor.com/PS9Tcg6mIY4AAAAS/cat-ayasan.gif)
