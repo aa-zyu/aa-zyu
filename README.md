@@ -1,6 +1,7 @@
 ### Boas vindas ao meu perfil 👋
 - Meu nome é Danielli Rover
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na
+- [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
